@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project is an Erlang binding of the librados on Linux. It tried 
 too bind the RADOS C API of the Ceph distributed object store as closely
 as possible, while maintaining the Erlang semantics and idioms.
@@ -105,3 +106,7 @@ xp@renzhi.ca
 
 
 
+=======
+cephelix
+========
+>>>>>>> 1dcd748fd68076320728b26157927d7f2c93c6a7
